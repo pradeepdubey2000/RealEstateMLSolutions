@@ -4,6 +4,8 @@
 
 This project is a comprehensive solution for analyzing and predicting property prices in Gurgaon, India. The application is built using various machine learning models and is deployed as an interactive web application using Streamlit. The key features include data collection via web scraping, extensive data preprocessing, feature engineering, model building and evaluation, visualization, and deployment of an analytics page, a recommendation system, and a price prediction tool.
 
+[Watch the Streamlit UI walkthrough video](https://github.com/user-attachments/assets/88b268aa-00cc-46a1-af9a-93fbc64f2717)
+
 ## **Project Structure**
 
 - **Data Collection**: Web scraping techniques were used to gather data on flats, houses, and apartments in Gurgaon.
